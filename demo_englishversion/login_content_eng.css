@@ -1,0 +1,362 @@
+body {
+    display: block;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 11px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    line-height: normal;
+    height: 100%;
+}
+
+.login {
+    width: 335px;
+    background-color: #ffffff;
+    border: 0px;
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+}
+
+.header_con {
+    background-color: rgb(249, 251, 254);
+    height: 50px;
+    width: 335px;
+    position: relative;
+    font-size: 11px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-weight: normal;
+    display: block;
+    font-variant: normal;
+    border-bottom-color: rgb(192, 205, 217);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-top: 0px;
+}
+
+.con1 {
+    bottom: 0px;
+    height: 45px;
+    font-size: 11px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-weight: normal;
+    display: block;
+    font-variant: normal;
+    width: 335px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+.con1_btn1 {
+    color: rgb(153, 153, 153);
+    cursor: auto;
+    display: inline-block;
+    font-size: 15px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 45px;
+    height: 45px;
+    text-decoration: none;
+    width: 110px;
+    margin-left: 40px;
+}
+
+.con1_btn2 {
+    color: rgb(51, 51, 51);
+    cursor: auto;
+    display: inline-block;
+    position: relative;
+    font-size: 15px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 45px;
+    height: 45px;
+    text-decoration: none;
+    width: 150px;
+    right: -50px;
+}
+
+.web_login {
+    width: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    height: 288px;
+    ;
+}
+
+.login_form {
+    position: relative;
+    width: 281px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    height: 100%;
+    ;
+}
+
+form {
+    position: relative;
+    display: block;
+    font-size: 11px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    height: 100%;
+}
+
+.uparea {
+    display: block;
+    font-size: 11px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    height: 50px;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+.input_tip1 {
+    color: rgb(170, 170, 170);
+    cursor: text;
+    font-size: 13px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    left: 13px;
+    line-height: 15px;
+    position: absolute;
+    top: 14px;
+}
+
+.inputouter1 input {
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    height: 36px;
+    width: 100%;
+}
+
+.downarea {
+    display: block;
+    font-size: 11px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    height: 43px;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+}
+
+.input_tip2 {
+    color: rgb(170, 170, 170);
+    cursor: text;
+    font-size: 13px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    left: 13px;
+    line-height: 15px;
+    position: absolute;
+    margin-top: 16px;
+}
+
+.inputouter2 input {
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    height: 36px;
+    width: 100%;
+}
+
+.submit {
+    display: block;
+    font-size: 13px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    position: relative;
+    top: 0px;
+    margin-top: 0px;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 185px;
+}
+
+.auto_login {
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: normal;
+    position: relative;
+    width: 120px;
+    margin-left: 0px;
+    height: 18px;
+    top: 20px;
+    position: absolute;
+    display: block;
+}
+
+.unchecked {
+    display: inline-block;
+    background-image: url("icon_ptloginpage1e9c5d.png");
+    background-clip: border-box;
+    background-attachment: scroll;
+    background-color: #ffffff;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: normal;
+    position: relative;
+    border-top-color: rgb(72, 146, 231);
+    border-left-color: rgb(72, 146, 231);
+    border-right-color: rgb(72, 146, 231);
+    border-bottom-color: rgb(72, 146, 231);
+    width: 18px;
+    height: 17px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.auto_log {
+    position: absolute;
+    display: inline-block;
+    font-size: 11px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: auto;
+    height: 16px;
+    margin-top: 2px;
+    cursor: pointer;
+    line-height: 16px;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+}
+
+.login_btn {
+    position: relative;
+    background-color: rgb(90, 152, 222);
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: rgb(0, 0, 238);
+    cursor: auto;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size: 12px;
+    display: block;
+    width: 278px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    top: 55px;
+}
+
+.btn {
+    align-items: flex-start;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-origin: padding-box;
+    background-size: auto;
+    border-bottom-color: rgb(255, 255, 255);
+    border-style: none;
+    border-width: 0px;
+    border-color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline-block;
+    height: 40px;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: normal;
+    line-height: 39px;
+    margin: 0px 0px 0px 0px;
+    padding: 1px 6px 1px 6px;
+    text-align: center;
+    width: 278px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+}
+
+.login_bottom {
+    display: block;
+    bottom: 2px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: normal;
+    margin-bottom: 15px;
+    height: 16px;
+    position: absolute;
+    right: 12px;
+    text-align: right;
+    width: 280px;
+}
+
+.link {
+    color: rgb(34, 85, 146);
+    cursor: auto;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size: 11px;
+    text-align: right;
+    text-decoration: none;
+}

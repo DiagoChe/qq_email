@@ -1,0 +1,175 @@
+body {
+    display: block;
+    background-color: white;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 12px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.container {
+    display: block;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    min-height: 500px;
+    font-size: 12px;
+}
+
+.header {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(239, 244, 250);
+    border-bottom-color: rgb(214, 223, 234);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    display: block;
+    margin-top: 0px;
+    height: 62px;
+    min-width: 1070px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-decoration: none;
+}
+
+.youxiang_logo {
+    background-image: url('https://rescdn.qqmail.com/zh_CN/htmledition/images/webp/logo/qqmail/qqmail_logo_default_35h206ff1.png');
+    background-repeat: no-repeat;
+    background-size: 180px 35px;
+    color: rgb(29, 84, 148);
+    cursor: auto;
+    float: left;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    height: 35px;
+    margin-left: 35px;
+    margin-top: 15px;
+    width: 180px;
+}
+
+.header_link {
+    display: block;
+    color: rgb(182, 182, 182);
+    line-height: 25px;
+    text-align: right;
+    font-size: 11px;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    margin-top: 18px;
+    margin-right: 25px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+a {
+    color: rgb(29, 84, 148);
+    text-decoration: none;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 11px;
+    cursor: auto;
+}
+
+.content {
+    display: block;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 11px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    height: 455px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.content_wrapper {
+    display: block;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 11px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 40px;
+    min-height: 370px;
+}
+
+.login_content {
+    background-color: white;
+    border-top-color: rgb(160, 177, 196);
+    border-left-color: rgb(160, 177, 196);
+    border-right-color: rgb(160, 177, 196);
+    border-bottom-color: rgb(160, 177, 196);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    float: right;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 11px;
+    width: 350px;
+    height: 390px;
+}
+
+.footer {
+    background-color: rgb(239, 244, 250);
+    border-top-width: 1px;
+    border-top-color: rgb(214, 223, 234);
+    border-top-style: solid;
+    bottom: 0px;
+    clear: both;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    text-align: center;
+    min-width: 1070px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+}
+
+.gray {
+    color: rgb(134, 134, 134);
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 11px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.login_picture {
+    background-image: url('https://res.mail.qq.com/en_US/htmledition/images/tg-haizi21e3da.jpg');
+    background-position: 140px 70px;
+    background-repeat: no-repeat;
+    display: block;
+    height: 410px;
+    width: 525px;
+    position: absolute;
+}
+
+.login_txt {
+    display: block;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 12px;
+    line-height: 20px;
+    position: relative;
+    width: 520px;
+    height: 280px;
+    padding-top: 20px;
+    left: 0px;
+}
+
+.login_txt_title {
+    color: rgb(111, 149, 200);
+    display: block;
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 25px;
+    margin-top: 10px;
+    line-height: 25px;
+}
+
+p {
+    font-family: 'lucida Grande', Verdana, 'Microsoft YaHei';
+    font-size: 13px;
+    line-height: 20px;
+}

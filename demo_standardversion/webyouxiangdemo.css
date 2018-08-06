@@ -33,7 +33,7 @@ body {
 }
 
 .youxiang_logo {
-    background-image: url(qqmail_logo_default_35h206ff1.png);
+    background-image: url('https://rescdn.qqmail.com/zh_CN/htmledition/images/webp/logo/qqmail/qqmail_logo_default_35h206ff1.png');
     background-repeat: no-repeat;
     background-size: 180px 35px;
     color: rgb(29, 84, 148);
@@ -138,7 +138,7 @@ a {
 }
 
 .login_picture {
-    background-image: url(tg-smile1e9c5d.jpg);
+    background-image: url('https://rescdn.qqmail.com/zh_CN/htmledition/images/webp/tg-smile1e9c5d.jpg');
     background-position: 240px 140px;
     background-repeat: no-repeat;
     display: block;
